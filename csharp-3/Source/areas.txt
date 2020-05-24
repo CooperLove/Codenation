@@ -1,0 +1,27 @@
+Acre-AC-164123,040
+Alagoas-AL-27778,506
+Amapa-AP-142828,521
+Amazonas-AM-1559159,148
+Bahia-BA-564733,177
+Ceará-CE-148920,472
+Distrito Federal-DF-5779,999
+Espirito Santo-ES-46095,583
+Goiás-GO-340111,783
+Maranhão-MA-331937,450
+Mato Grosso-MT-903366,192
+Mato Grosso do Sul-MS-357145,532
+Minas Gerais-MG-586522,122
+Pará-PA-1247954,666
+Paraíba-PB-56585,000
+Paraná-PR-199307,922
+Pernambuco-PE-98311,616
+Piauí-PI-251577,738
+Riode Janeiro-RJ-43780,172
+Rio Grande do Norte-RN-52811,047
+Rio Grande do Sul-RS-281730,223
+Rondônia-RO-237590,547
+Roraima-RR-224300,506
+Santa Catarina-SC-95736,165
+São Paulo-SP-248222,362
+Sergipe-SE-21915,116
+Tocantins-TO-277720,520

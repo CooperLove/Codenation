@@ -1,0 +1,34 @@
+Execuá∆o de teste para C:\Users\pedro\codenation\csharp-2\Source.TestSubmission\bin\Debug\netcoreapp2.2\Source.TestSubmission.dll(.NETCoreApp,Version=v2.2)
+Ferramenta de Linha de Comando de Execuá∆o de Teste da Microsoft (R) Vers∆o 16.3.0
+Copyright (c) Microsoft Corporation. Todos os direitos reservados.
+
+Iniciando execuá∆o de teste, espere...
+
+1 arquivos de teste no total corresponderam ao padr∆o especificado.
+Mensagem: the quick brown fox jumps over the lazy dog
+Cifrada: wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj
+
+Cifrada: def
+Decifrada: abc
+Mensagem: a1b2c3d 4e5f6g7h8i9 j0
+Cifrada: d1e2f3g 4h5i6j7k8l9 m0
+
+Mensagem: abc
+Cifrada: def
+
+Cifrada: wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj
+Decifrada: the quick brown fox jumps over the lazy dog
+Cifrada: -+~&*#
+Erro no caractere -
+Cifrada: á†
+Erro no caractere á
+Mensagem: -+~&*#
+Erro no caractere -
+Mensagem: á†
+Erro no caractere á
+Results File: C:\Users\pedro\codenation\csharp-2\Source.TestSubmission\results.xml
+
+Execuá∆o de Teste Bem-sucedida.
+Total de testes: 9
+     Aprovados: 9
+Tempo total: 1,1382 Segundos
